@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on small projects
 - 👱‍♀️ Pronouns: she/her
 - 📫 How to reach me:
-  - 🏢 [LinkedIn] (https://www.linkedin.com/in/brigittesprung/) 
+  - 🏢 [LinkedIn](https://www.linkedin.com/in/brigittesprung/) 
 
 [![Brigitte's github stats](https://github-readme-stats.vercel.app/api?username=brigittesprung&count_private=true&show_icons=true&theme=buefy&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
