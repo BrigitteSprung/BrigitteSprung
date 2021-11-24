@@ -1,6 +1,7 @@
 ### Hi, I’m @BrigitteSprung
 
 - 👀 I’m interested in Web Development
+- 💼 I'm working as a Junior Full Stack Developer
 - 🌱 I’m currently learning MERN stack & Data Science on Kaggle
 - 💞️ I’m looking to collaborate on small projects
 - 👱‍♀️ Pronouns: she/her
